@@ -1,0 +1,15 @@
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\bin\Debug\net8.0\CSharpCodingInterviewQuestions.exe
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\bin\Debug\net8.0\CSharpCodingInterviewQuestions.deps.json
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\bin\Debug\net8.0\CSharpCodingInterviewQuestions.runtimeconfig.json
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\bin\Debug\net8.0\CSharpCodingInterviewQuestions.dll
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\bin\Debug\net8.0\CSharpCodingInterviewQuestions.pdb
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\CSharpCodingInterviewQuestions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\CSharpCodingInterviewQuestions.AssemblyInfoInputs.cache
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\CSharpCodingInterviewQuestions.AssemblyInfo.cs
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\CSharpCodingInterviewQuestions.csproj.CoreCompileInputs.cache
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\CSharpCodingInterviewQuestions.sourcelink.json
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\CSharpCodingInterviewQuestions.dll
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\refint\CSharpCodingInterviewQuestions.dll
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\CSharpCodingInterviewQuestions.pdb
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\CSharpCodingInterviewQuestions.genruntimeconfig.cache
+D:\Practise\CSharp\VB-Learnings\CSharpCodingInterviewQuestions\obj\Debug\net8.0\ref\CSharpCodingInterviewQuestions.dll

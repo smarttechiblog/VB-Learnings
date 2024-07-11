@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practise\\CSharp\\CSharpCodingInterviewQuestions\\CSharpCodingInterviewQuestions.csproj": {}
+    "D:\\Practise\\CSharp\\VB-Learnings\\CSharpCodingInterviewQuestions\\CSharpCodingInterviewQuestions.csproj": {}
   },
   "projects": {
-    "D:\\Practise\\CSharp\\CSharpCodingInterviewQuestions\\CSharpCodingInterviewQuestions.csproj": {
+    "D:\\Practise\\CSharp\\VB-Learnings\\CSharpCodingInterviewQuestions\\CSharpCodingInterviewQuestions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practise\\CSharp\\CSharpCodingInterviewQuestions\\CSharpCodingInterviewQuestions.csproj",
+        "projectUniqueName": "D:\\Practise\\CSharp\\VB-Learnings\\CSharpCodingInterviewQuestions\\CSharpCodingInterviewQuestions.csproj",
         "projectName": "CSharpCodingInterviewQuestions",
-        "projectPath": "D:\\Practise\\CSharp\\CSharpCodingInterviewQuestions\\CSharpCodingInterviewQuestions.csproj",
+        "projectPath": "D:\\Practise\\CSharp\\VB-Learnings\\CSharpCodingInterviewQuestions\\CSharpCodingInterviewQuestions.csproj",
         "packagesPath": "C:\\Users\\bammi\\.nuget\\packages\\",
-        "outputPath": "D:\\Practise\\CSharp\\CSharpCodingInterviewQuestions\\obj\\",
+        "outputPath": "D:\\Practise\\CSharp\\VB-Learnings\\CSharpCodingInterviewQuestions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

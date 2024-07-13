@@ -57,6 +57,13 @@ namespace CSharpCodingInterviewQuestions.CustomSortingStrings
             }          
         }
 
+
+        /// <summary>
+        /// Custom compare two strings.
+        /// </summary>
+        /// <param name="firstValue"></param>
+        /// <param name="secondValue"></param>
+        /// <returns></returns>
         public static int CompareTwoStrings(string firstValue, string secondValue)
         {    
             return VbCompare(firstValue, secondValue);

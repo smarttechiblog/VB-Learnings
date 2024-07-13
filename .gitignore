@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSharpCodingInterviewQuestions/.vs/CSharpCodingInterviewQuestions/FileContentIndex/161da9f7-c34f-4857-a139-c8ea9f3ef961.vsidx
+/CSharpCodingInterviewQuestions/.vs/CSharpCodingInterviewQuestions/FileContentIndex/48589f2b-2dfd-499c-9e88-536024fda90d.vsidx
+/CSharpCodingInterviewQuestions/.vs/CSharpCodingInterviewQuestions/FileContentIndex/67a618e5-becf-414d-be08-cc22fdafbb58.vsidx
+/CSharpCodingInterviewQuestions/.vs/CSharpCodingInterviewQuestions/FileContentIndex/8ebb157c-9c5a-4c6e-84aa-1397cd038106.vsidx
+/CSharpCodingInterviewQuestions/.vs/CSharpCodingInterviewQuestions/FileContentIndex/ae2c5d34-0f86-47b1-adf5-828d6b09bcc4.vsidx
+/.gitignore
+/CSharpCodingInterviewQuestions/.vs/CSharpCodingInterviewQuestions/v17/.suo
